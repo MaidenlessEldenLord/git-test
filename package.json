@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "bootstrap-social": "^5.1.1"
+  },
+  "devDependencies": {
+    "parallelshell": "3.0.1"
   }
 }
